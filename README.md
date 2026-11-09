@@ -1,8 +1,8 @@
-TypeScript Course Assignment
+# TypeScript Course Assignment
 
-This repository contains my assignments and practice tasks from Programming Hero Level 2. The goal is to strengthen my TypeScript fundamentals through practical coding exercises.
+This repository contains my assignments and practice tasks from **Programming Hero Level 2**. The goal is to strengthen my TypeScript fundamentals through practical coding exercises.
 
-Assignment Overview
+## Assignment Overview
 
 The assignment covers the following topics:
 
@@ -12,16 +12,14 @@ The assignment covers the following topics:
 - **Type Narrowing:** `typeof`, `instanceof`, and the `in` operator.
 - **Asynchronous Programming:** Promises, `async/await`, error handling, and `setTimeout`.
 
-Blog Posts
+## Blog Posts
 
 1. [Type Narrowing in TypeScript](./type-narrowing.md)
-2. [Generics and Promise<T> in TypeScript](./generics-and-promises.md)
+2. [Generics and Promise&lt;T&gt; in TypeScript](./generics.md)
 
-Technologies
+## Technologies
 
 - TypeScript
 - JavaScript (ES6+)
 - Node.js
-
-
 
